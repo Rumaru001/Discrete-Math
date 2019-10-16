@@ -1,0 +1,3 @@
+C:/Users/shkli/CLionProjects/DM_L2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shkli/CLionProjects/DM_L2_2/cmake-build-debug/CMakeFiles/DM_L2_2.dir
+C:/Users/shkli/CLionProjects/DM_L2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
