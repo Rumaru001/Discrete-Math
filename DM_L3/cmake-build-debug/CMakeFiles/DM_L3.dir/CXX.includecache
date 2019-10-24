@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shkli/CLionProjects/DM_L3/func.h
+iostream
+-
+
+C:/Users/shkli/CLionProjects/DM_L3/main.cpp
+iostream
+-
+func.h
+C:/Users/shkli/CLionProjects/DM_L3/func.h
+relations.h
+C:/Users/shkli/CLionProjects/DM_L3/relations.h
+
+C:/Users/shkli/CLionProjects/DM_L3/relations.h
+iostream
+-
+
